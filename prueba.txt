@@ -1,0 +1,33 @@
+1
+-Una variable es una representación de un espacio en memoria y sirve para almacenar información de cualquier tipo
+-Cuando se declara la variable, simplemente se le está dando un nombre a ese espacio en memoria y al inicializar se le asigna un valor.
+-En ambos se utiliza el operador + pero en el caso de los números, debido al tipo de dato, se realiza la suma aritmetica común, mientras que en los strings por el tipo de datos, se enlazan o concatenan después del último caracter de string previo.
+-El operador +
+
+2 y 3
+
+Let name typeof string
+Let lastName typeof string
+Let userName typeof string
+Let age typeof number
+Let email typeof string
+Let isAdult typeof boolean
+Let savings typeof number
+Let debts typeof number
+
+4
+Let fullName = name + " " + lastName
+Let moneyBall = savings - debts
+
+console.log("Tu nombre completo es: ", fullName)
+console.log("El dinero que tienes realmente es: ", moneyBall)
+
+5
+-Una función es una serie de pasos que están destinados a realizar una tarea o calcular un valor, la particularidad de las funciones es que reciben una entrada y regresan un valor.
+-Cuando tengo que realizar alguna tarea en particular y debo recibir un resultado de esta tarea, por ejemplo un números
+
+Condicionales
+-Es un divisor del flujo del programa que necesita un variable lógica para iniciar un proceso u otro, 
+-If, else if, switch y ternario.
+-si se puede.
+
