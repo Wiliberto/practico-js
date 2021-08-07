@@ -31,3 +31,9 @@ Condicionales
 -If, else if, switch y ternario.
 -si se puede.
 
+Ciclos
+-Un ciclo es un fragmento  de código que puede repetirse varias veces o no, dependiendo de los requerimientos para ese fragmento de código
+-for, for of, while, do while
+-Un ciclo infinito es un error en la lógica de programación y es un problema porque al ser un proceso que se ejecutar de forma interrumpida, se puede saturar la memoria de la computadora
+- Sí, se pueden mezclar los ciclos y los Condicionales.
+
